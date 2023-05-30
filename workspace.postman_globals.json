@@ -15,7 +15,7 @@
 		},
 		{
 			"key": "URLadres",
-			"value": "",
+			"value": "https://simple-books-api.glitch.me",
 			"type": "any",
 			"enabled": true
 		}
